@@ -38,5 +38,5 @@
 Any MSME type suppliers must be paid with 45 days as per governmet rules,Non MSME are considered as big companies this rule does not applies.
  
  + ## 👉 Recommendations :
- + - Supplier Overview : Gives us suppliers status and its capabilities. This will help the responsible buyer get a fouced quick insight for the suppliers.
- + - Volume Movement : Help analyze the purchase volume and tonnage volume movement throughout different years for past comparisions and business planning.
+ + -Supplier Overview : Gives us suppliers status and its capabilities. This will help the responsible buyer get a fouced quick insight for the suppliers.
+ + -Volume Movement : Help analyze the purchase volume and tonnage volume movement throughout different years for past comparisions and business planning.
