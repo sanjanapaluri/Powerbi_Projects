@@ -5,20 +5,20 @@
  As the collected Data is of different years for multiple Plants grouped by different Business Units. The parts are either made of Aluminium or Ferrous of different raw material grade alloys, with the source being either Tier 1 supplier or Tier 2 supplier. Considering all these factors, create a dashboard which is insightful on all these factors and can help the Procurement Department make better supply chain strategic decisions.
 +
 + ## 👉Dataset Description:
-+ -Report Data Files(Report 2019,2020,2021)
-+ -Material weights and source
-+ -Supplier data
+ -Report Data Files(Report 2019,2020,2021)
+ -Material weights and source
+ -Supplier data
 
 + ## 👉 Tools Used: 
 - 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐨𝐰𝐞𝐫 𝐁𝐢 (with Some DAX functions)
 
 + ## 👉 Analysis Procedure:
-+ 🎀 Data Cleaning 
-+ 🎀 Data Transformation
-+ 🎀 Data Modeling 
-+ 🎀 Data Visualization
-+ 🎀 Findings
-+ 🎀 Recommendations
+ 🎀 Data Cleaning 
+ 🎀 Data Transformation
+ 🎀 Data Modeling 
+ 🎀 Data Visualization
+ 🎀 Findings
+ 🎀 Recommendations
 
 + This dataset provided by the Coding Invaders LMS platform. The dataset is then connected to Power BI Desktop for analysis. Power Query is utilized to transform and clean the data, ensuring it is in a suitable format for analysis.
 
