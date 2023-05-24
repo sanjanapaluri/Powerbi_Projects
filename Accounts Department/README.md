@@ -13,12 +13,12 @@
 - 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐨𝐰𝐞𝐫 𝐁𝐢 (with Some DAX functions)
 
 + ## 👉 Analysis Procedure:
- 🎀 Data Cleaning 
- 🎀 Data Transformation
- 🎀 Data Modeling 
- 🎀 Data Visualization
- 🎀 Findings
- 🎀 Recommendations
++ 🎀 Data Cleaning 
++ 🎀 Data Transformation
++ 🎀 Data Modeling 
++ 🎀 Data Visualization
++ 🎀 Findings
++ 🎀 Recommendations
 
 + This dataset provided by the Coding Invaders LMS platform. The dataset is then connected to Power BI Desktop for analysis. Power Query is utilized to transform and clean the data, ensuring it is in a suitable format for analysis.
 
