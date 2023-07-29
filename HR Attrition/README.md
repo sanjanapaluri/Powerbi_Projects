@@ -5,3 +5,5 @@ I need to know what factors I can change to prevent the loss of good people. Wat
 👉 Content
 I have data about past and current employees in a spreadsheet on my desk top. It has various data points on our employees, but I’m most interested in whether they’re still with my company or whether they’ve gone to work somewhere else. 
 And I want to understand how this relates to workforce attrition
+
+👉 This dataset is taking from kaggle and done some EDA and changes done on the excel.
