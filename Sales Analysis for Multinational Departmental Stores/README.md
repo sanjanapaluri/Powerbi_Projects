@@ -81,3 +81,15 @@ You can access the dataset [here](https://drive.google.com/file/d/1rNK3nmroxnxiZ
 | Product Price            | Product Price                                                                                      |
 | Product Status           | Status of the product stock: 1 for not available, 0 for available                                    |
 | Shipping date (DateOrders)| Exact date and time of shipment                                                                   |
+
+#### Question 1: Find the % share of Computers (category) compared to everything sold under Technology (Department) for the Pacific Asia Market?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/0150dc5d-261d-4397-9a2a-260aa93e8ec3)
+
+#### Question 2: What was the USCA % share in Quarter 3 2016 for the Footwear Department?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/ed60a400-7ec9-43e3-8167-a9349dd0c4aa)
+
+#### Question 3: Filter all the products sold under Loss with Maximum discount and find the “Total Profit Ratio” of it?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/4556997f-01d3-47b8-a8ec-708f94746a23)
