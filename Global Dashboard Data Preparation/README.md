@@ -11,6 +11,8 @@ In our quest to create a Global Dashboard with key metrics that serve all stakeh
 
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/411ea44c-9ec5-40a5-aadf-715d716f2fc2)
 
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/a62fd0fa-26d3-45b1-9bce-2b478c1fcbea)
+
 ## Task 1: Importing Data from Google Sheets
 
 We initiated the data acquisition process by requesting all analysts to put their respective datasets into a standard format and share them on Google Sheets. Once we received the data, we established a real-time connection to these Google Sheets to ensure that our dashboard's metrics stay updated automatically without manual intervention.
