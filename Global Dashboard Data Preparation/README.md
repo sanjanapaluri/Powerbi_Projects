@@ -84,3 +84,6 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 
 #### Question 14: : Which month shows the highest Payslip count for the EMEA region?
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/40ba921c-5906-4065-8425-3ba5766fb869)
+
+#### Question 15: What is the Payslip count for Canada in Dec 2020?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/22eb23dc-c2ee-48e6-9615-0abb86e3bd7f)
