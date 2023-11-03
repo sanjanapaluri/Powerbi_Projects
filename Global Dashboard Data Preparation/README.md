@@ -70,10 +70,16 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 #### Question 9: What is the % share of the Top 2 Vendors? Name the Vendors?
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/a9b2f573-a886-4e94-9574-63b5113aa68c)
 
-#### Question 10: Which Region shows the biggest bubble, if size of the bubble is represented by the Total Amount?
+#### Question 10: What is the % share of the Top 2 Vendors? Name the Vendors?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/8db3eccc-4f51-4227-affe-36e3f4cf9f6f)
+
+#### Question 11: Which Region shows the biggest bubble, if size of the bubble is represented by the Total Amount?
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/32b46e03-3333-43a4-a608-b152857b8345)
 
 #### Question 12: : What is the total Processing Cost for the Month of March 2020 for LATAM?
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/0a545baa-c345-4c06-95c7-d939c3688dfa)
 
+#### Question 13: How much Rebate did the Vendor ‘Vtl Inc.’ provide in Dec 2020?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/c6bb857f-e1e6-439c-ac60-1a66a3bc382a)
 
+#### Question 14: : Which month shows the highest Payslip count for the EMEA region?
