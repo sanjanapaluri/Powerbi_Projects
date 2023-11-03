@@ -6,4 +6,8 @@ Blu Company is a diversified business conglomerate with successful ventures acro
 
 ## Final Dashboard:
 
-![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/19e63b0f-b4c6-4fbb-a947-9934df4a1036)
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/b9c1354a-2d36-4295-9181-6cc252b6b81c)
+
+---------------------------------------------------------------------------------------
+
+### Question 1: Blu wants to analyze the transactions that have gross that are not negative. Further analysis is needed on a Deputy Manager level. For a Deputy Managers named Chris Gray and Carlos Grilo, what is the total sales in Millions?
