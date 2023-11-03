@@ -1,17 +1,21 @@
-### 1. [Global Dashboard Data Preparation](https://github.com/sanjanapaluri/Powerbi_Projects/tree/main/Global%20Dashboard%20Data%20Preparation)
+### 1. [Blu Company Dashboard Project](https://github.com/sanjanapaluri/Powerbi_Projects/tree/main/Blu%20Company%20Dashboard%20Project)
+
+Blu Company is a diversified business conglomerate with successful ventures across various product categories and a prominent presence in the real estate sector. The company's Global Business Head has initiated a project to develop a comprehensive dashboard for tracking key metrics related to the company's nine Business Unit Managers (Executives), product sales, quantities sold, and gross margins (GM).
+
+### 2. [Global Dashboard Data Preparation](https://github.com/sanjanapaluri/Powerbi_Projects/tree/main/Global%20Dashboard%20Data%20Preparation)
 
 In our quest to create a Global Dashboard with key metrics that serve all stakeholders in their decision-making, we have embarked on the crucial initial step of ensuring that the data is complete, clean, and can be seamlessly connected to our dashboard. To achieve this, we have collaborated with various analysts who are responsible for providing data from different regions and sources.
 
 
-### 2. [HR Attrition](https://github.com/sanjanapaluri/Powerbi_Projects/tree/main/HR%20Attrition)
+### 3. [HR Attrition](https://github.com/sanjanapaluri/Powerbi_Projects/tree/main/HR%20Attrition)
 
 The key to success in any organization is attracting and retaining top talent. I’m an HR analyst at my company, and one of my tasks is to determine which factors keep employees at my company and which prompt others to leave. I need to know what factors I can change to prevent the loss of good people. Watson Analytics is going to help.
 
-### 3. [Procurement and Supply Chain](https://github.com/sanjanapaluri/Powerbi_Projects/tree/main/Procurement%20and%20Supply%20Chain)
+### 4. [Procurement and Supply Chain](https://github.com/sanjanapaluri/Powerbi_Projects/tree/main/Procurement%20and%20Supply%20Chain)
 
 In our dynamic business environment, efficient procurement and supply chain management are pivotal to reducing costs, optimizing resources, and enhancing competitiveness. The Accounts Department of our company meticulously maintains detailed invoice records for every vendor and part procured. These records provide a treasure trove of data that, when analyzed effectively, can unlock valuable insights for the company's strategic procurement decisions.
 
-### 4. [Sales Analysis for Multinational Departmental Stores](https://github.com/sanjanapaluri/Powerbi_Projects/tree/main/Sales%20Analysis%20for%20Multinational%20Departmental%20Stores)
+### 5. [Sales Analysis for Multinational Departmental Stores](https://github.com/sanjanapaluri/Powerbi_Projects/tree/main/Sales%20Analysis%20for%20Multinational%20Departmental%20Stores)
 
 The primary goal of this data analysis is to extract meaningful insights from the dataset and address critical business questions. By doing so, we aim to enhance various aspects of the company's operations and overall performance:
 
