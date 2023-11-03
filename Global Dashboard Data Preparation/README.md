@@ -9,6 +9,7 @@ In our quest to create a Global Dashboard with key metrics that serve all stakeh
 
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/163d1a02-c34a-4a13-aa4c-1df0b318661e)
 
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/411ea44c-9ec5-40a5-aadf-715d716f2fc2)
 
 ## Task 1: Importing Data from Google Sheets
 
