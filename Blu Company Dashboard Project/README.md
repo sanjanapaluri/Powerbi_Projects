@@ -11,3 +11,5 @@ Blu Company is a diversified business conglomerate with successful ventures acro
 ---------------------------------------------------------------------------------------
 
 ### Question 1: Blu wants to analyze the transactions that have gross that are not negative. Further analysis is needed on a Deputy Manager level. For a Deputy Managers named Brad Sutton and Valery Ushakov, what is the total sales in Millions?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/a4bd77a8-00eb-44c9-9567-f88de0a21727)
