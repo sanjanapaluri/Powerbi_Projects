@@ -74,5 +74,6 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/32b46e03-3333-43a4-a608-b152857b8345)
 
 #### Question 12: : What is the total Processing Cost for the Month of March 2020 for LATAM?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/0a545baa-c345-4c06-95c7-d939c3688dfa)
 
 
