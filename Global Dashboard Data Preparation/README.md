@@ -41,3 +41,15 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 2. We performed basic cleaning, which involved replacing all blanks and nulls in numeric fields with 0. Additionally, we ensured that numeric fields displayed two decimal points where necessary.
 
 ----------------------------------------------------------------------------------------------------------------
+
+#### Question 1: What is the Total Count of records in the Main Table?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/62ac5f93-f99a-40d8-840f-c9c2254bf5a3)
+
+#### Question 2: Which country has the highest count of Invoices?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/9a4dcf28-cf01-492c-b8b1-dcbda4c181c9)
+
+#### Question 3: What is the Count of Invoices for Singapore?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/a5e3734d-cdc5-4e6e-b92f-70a34513108d)
+
+#### Question 4: If you view the data on the basis of the highest Invoice amount, which country will come at the top?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/e220ba67-43aa-4164-ac9d-e9adfa54ace7)
