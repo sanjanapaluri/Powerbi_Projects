@@ -87,3 +87,6 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 
 #### Question 15: What is the Payslip count for Canada in Dec 2020?
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/22eb23dc-c2ee-48e6-9615-0abb86e3bd7f)
+
+#### Question 16: How much value does the line chart show on Aug 2020, if you filter on North America?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/d130259a-4eb4-4acb-97f0-c530c1b64d3a)
