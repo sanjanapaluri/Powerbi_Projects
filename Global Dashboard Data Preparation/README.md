@@ -60,3 +60,10 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 
 #### Question 6: Does the APAC region have the lowest Total Amount?
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/8815bdda-96cb-4dc0-8372-b45f2f93a659)
+
+#### Question 7: What is the Total Amount for the Base month (in Millions) ?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/ba8c614e-7233-4056-b695-0f4a125b821d)
+
+#### QUestion 8: : What is the Payslip Count for Base Month (in Millions) ?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/060ffe44-5e71-40e3-9355-90eaac65af6d)
+
