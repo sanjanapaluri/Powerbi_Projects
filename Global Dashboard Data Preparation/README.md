@@ -53,3 +53,6 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 
 #### Question 4: If you view the data on the basis of the highest Invoice amount, which country will come at the top?
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/e220ba67-43aa-4164-ac9d-e9adfa54ace7)
+
+#### Question 5: Which Invoice number shows the highest amount?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/9c9aef3b-e07a-4394-a389-535ab9b7e691)
