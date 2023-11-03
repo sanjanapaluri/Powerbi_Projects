@@ -66,10 +66,10 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/8815bdda-96cb-4dc0-8372-b45f2f93a659)
 
 #### Question 7: What is the Total Amount for the Base month (in Millions) ?
-![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/ba8c614e-7233-4056-b695-0f4a125b821d)
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/ad184e40-3caf-493b-9534-528fbf92dbee)
 
 #### QUestion 8: : What is the Payslip Count for Base Month (in Millions) ?
-![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/060ffe44-5e71-40e3-9355-90eaac65af6d)
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/d58a79a3-3966-4dd2-b84b-1e0d67329091)
 
 #### Question 9: What is the % share of the Top 2 Vendors? Name the Vendors?
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/a9b2f573-a886-4e94-9574-63b5113aa68c)
