@@ -83,3 +83,4 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/c6bb857f-e1e6-439c-ac60-1a66a3bc382a)
 
 #### Question 14: : Which month shows the highest Payslip count for the EMEA region?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/40ba921c-5906-4065-8425-3ba5766fb869)
