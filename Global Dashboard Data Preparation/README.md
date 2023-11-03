@@ -56,3 +56,7 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 
 #### Question 5: Which Invoice number shows the highest amount?
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/9c9aef3b-e07a-4394-a389-535ab9b7e691)
+
+
+#### Question 6: Does the APAC region have the lowest Total Amount?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/8815bdda-96cb-4dc0-8372-b45f2f93a659)
