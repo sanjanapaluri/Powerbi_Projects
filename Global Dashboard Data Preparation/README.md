@@ -67,3 +67,12 @@ In the Power Query view, we combined the Regional Invoice details tables into on
 #### QUestion 8: : What is the Payslip Count for Base Month (in Millions) ?
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/060ffe44-5e71-40e3-9355-90eaac65af6d)
 
+#### Question 9: What is the % share of the Top 2 Vendors? Name the Vendors?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/a9b2f573-a886-4e94-9574-63b5113aa68c)
+
+#### Question 10: Which Region shows the biggest bubble, if size of the bubble is represented by the Total Amount?
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/32b46e03-3333-43a4-a608-b152857b8345)
+
+#### Question 12: : What is the total Processing Cost for the Month of March 2020 for LATAM?
+
+
