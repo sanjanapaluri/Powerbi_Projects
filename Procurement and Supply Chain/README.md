@@ -136,3 +136,5 @@ To enhance the visual representation of the Supplier Data columns in our dashboa
 These icons will be used to visually represent the commodity type, casting capability, and machining capability in the dashboard's user interface, making it more intuitive and informative for users.
 
 ------------------------------------------------------------------------------------------
+
+#### Question 1: Non-MSME suppliers are basically the ones which have a Turnover > 100cr (1000 Million), Lower than this will be classified into different types of MSME category. How many of these suppliers do we have where we can not grow more business?
