@@ -168,3 +168,11 @@ These icons will be used to visually represent the commodity type, casting capab
 #### Question 8: Kevin is planning to reduce the ferrous raw material prices for further years for his supplier, so far in the past 2 years which is the highest Tonnage consuming RM Grade and how many tons?
 
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/5b34b573-6a35-4709-9b74-a5f6648a7826)
+
+#### Question 9: Paul wants to increase the business with his 2nd biggest supplier. Out of the Part Families supplied by his 2nd biggest supplier, which part family has more than one supplier, also where less purchase volume comes from his second biggest supplier?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/c1ee619a-c887-4dff-ba54-fbff97d94b48)
+
+#### Question 10: We want to declutter the supply chain for our top 5 suppliers, we can decide to buy from one single source and negotiate for cost saving. check if they have more than one casting supplier?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/009dc4fe-7530-42ac-903f-8acc4fe83bde)
