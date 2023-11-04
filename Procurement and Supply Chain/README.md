@@ -138,3 +138,5 @@ These icons will be used to visually represent the commodity type, casting capab
 ------------------------------------------------------------------------------------------
 
 #### Question 1: Non-MSME suppliers are basically the ones which have a Turnover > 100cr (1000 Million), Lower than this will be classified into different types of MSME category. How many of these suppliers do we have where we can not grow more business?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/da29a4b2-a27d-453b-948a-d2a718a07e33)
