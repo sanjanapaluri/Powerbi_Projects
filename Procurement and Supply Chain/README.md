@@ -140,3 +140,19 @@ These icons will be used to visually represent the commodity type, casting capab
 #### Question 1: Non-MSME suppliers are basically the ones which have a Turnover > 100cr (1000 Million), Lower than this will be classified into different types of MSME category. How many of these suppliers do we have where we can not grow more business?
 
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/da29a4b2-a27d-453b-948a-d2a718a07e33)
+
+#### Question 2: We have a forecast that the business for ferrous casting will reduce year on year, show me how many of our ferrous casting suppliers we would need to stop business in future as the demand starts coming down.
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/94e643fe-b901-476c-9948-d370cbcece74)
+
+#### Question 3: Find out the list of Small MSME suppliers where the supply chain will not increase till tier 2 suppliers as they will have full Casting and Machining capabilities.
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/1388a30e-05ba-4ff1-bcaa-180896648cca)
+
+#### Question 4: As per Government rules, we can't increase the payment terms more than 45 days for any type of MSME suppliers. Keeping this in mind do we have any Non-MSME suppliers where we can go above 45 days. If yes, what is the supplier name?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/eee0984f-c4fc-411e-9ebd-c4f4b99e0f95)
+
+#### Question 5: Pune is one of the Flood Risk Zone, to prepare our supplier for difficult scenarios a taskforce has been assigned. Taskforce wants to know how many of our suppliers are from Pune?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/7f69556b-d1c7-45ec-8be0-7d13c8e41272)
