@@ -156,3 +156,15 @@ These icons will be used to visually represent the commodity type, casting capab
 #### Question 5: Pune is one of the Flood Risk Zone, to prepare our supplier for difficult scenarios a taskforce has been assigned. Taskforce wants to know how many of our suppliers are from Pune?
 
 ![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/7f69556b-d1c7-45ec-8be0-7d13c8e41272)
+
+#### Question 6: As Danny is handling a maximum of “Ferrous” suppliers, he wants to know which Part family in ferrous has the highest purchase volume?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/38e9f53b-3b49-429d-8652-727edd7bc76c)
+
+#### Question 7: The Management wants us to minimize the risk with our suppliers, show me the biggest NoGo Suppliers that we have to target first?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/874bf521-da56-4c5b-97a0-19b31bb553c2)
+
+#### Question 8: Kevin is planning to reduce the ferrous raw material prices for further years for his supplier, so far in the past 2 years which is the highest Tonnage consuming RM Grade and how many tons?
+
+![image](https://github.com/sanjanapaluri/Powerbi_Projects/assets/127730680/5b34b573-6a35-4709-9b74-a5f6648a7826)
