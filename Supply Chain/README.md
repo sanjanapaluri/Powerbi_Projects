@@ -1,4 +1,4 @@
-# Procurement and Supply Chain Dashboard
+# Supply Chain Dashboard
 
 ## Business Context
 
